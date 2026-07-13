@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Ana Caroline Lamas
 
 ---
-Cloud Security Engineer Cybersecurity Researcher Application Security (AppSec)  Cloud Architecture ---
+Cloud Security Engineer Cybersecurity Researcher Application Security (AppSec)  Cloud Architecture
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+Security+Engineer;Cybersecurity+Researcher;Application+Security;AWS+%7C+Google+Cloud+Platform;Infrastructure+as+Code;Secure+Cloud+Architectures;DevSecOps+Automation;Backend+Security+Engineering" />
 
