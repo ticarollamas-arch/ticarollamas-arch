@@ -16,6 +16,18 @@
 
 I'm a Cybersecurity Researcher and Cloud Security Engineer focused on designing secure cloud-native architectures, backend security, DevSecOps automation and AI-assisted security engineering.
 
+---
+
+<a href="https://bugcrowd.com/h/carollamas">
+  <img src="https://cdn.simpleicons.org/bugcrowd" width="32" />
+</a>
+
+<a href="https://bughunters.google.com/profile/b81bec3d-6830-476a-83d0-42276659a092/awards">
+  <img src="https://cdn.simpleicons.org/google" width="32" />
+</a>
+
+---
+
 My work combines:
 
 - ☁️ Cloud Architecture
