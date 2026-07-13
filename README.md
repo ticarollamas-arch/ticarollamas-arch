@@ -22,13 +22,17 @@ I'm a Cybersecurity Researcher and Cloud Security Engineer focused on designing 
 
 ---
 
+<div align="center">
+
 <a href="https://bugcrowd.com/h/carollamas">
-  <img src="https://cdn.simpleicons.org/bugcrowd" width="32" />
+  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd">
 </a>
 
 <a href="https://bughunters.google.com/profile/b81bec3d-6830-476a-83d0-42276659a092/awards">
-  <img src="https://cdn.simpleicons.org/google" width="32" />
+  <img src="https://img.shields.io/badge/Google%20Bug%20Hunters-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Bug Hunters">
 </a>
+
+</div>
 
 ---
 
