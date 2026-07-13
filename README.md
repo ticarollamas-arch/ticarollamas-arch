@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ana Caroline Lamas
 
-### ☁️ Cloud Security Engineer 🛡️ Cybersecurity Researcher 🔐 Application Security (AppSec)  🏗️ Cloud Architecture
+###  Cloud Security Engineer  Cybersecurity Researcher  Application Security (AppSec) Cloud Architecture
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Security+Engineer;Cybersecurity+Researcher;Application+Security+(AppSec);AWS+%7C+Google+Cloud+Platform;DevSecOps+Automation;Backend+Security+Engineering;AI-Assisted+Security;Secure+Cloud-Native+Architectures" />
 
@@ -110,14 +110,10 @@ Security Pipelines • Cloud Automation
 
 ---
 
-
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ticarollamas-arch&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticarollamas-arch&layout=compact&theme=tokyonight"/>
-
+  <a href="https://github.com/ticarollamas-arch">
+    <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub"/>
+  </a>
 </p>
 
 ---
