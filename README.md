@@ -18,6 +18,8 @@ I'm a Cybersecurity Researcher and Cloud Security Engineer focused on designing 
 
 ---
 
+## 🪲 Bug Hunter • ☁️ Cloud Security Engineer • 🛡️ AppSec • 🔍 Cybersecurity Researcher ##
+
 <a href="https://bugcrowd.com/h/carollamas">
   <img src="https://cdn.simpleicons.org/bugcrowd" width="32" />
 </a>
