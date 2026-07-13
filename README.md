@@ -1,13 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Ana Caroline Lamas
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ana Caroline Lamas
 
----
-Cloud Security Engineer Cybersecurity Researcher Application Security (AppSec)  Cloud Architecture
+### ☁️ Cloud Security Engineer 🛡️ Cybersecurity Researcher 🔐 Application Security (AppSec)  🏗️ Cloud Architecture
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+Security+Engineer;Cybersecurity+Researcher;Application+Security;AWS+%7C+Google+Cloud+Platform;Infrastructure+as+Code;Secure+Cloud+Architectures;DevSecOps+Automation;Backend+Security+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Security+Engineer;Cybersecurity+Researcher;Application+Security+(AppSec);AWS+%7C+Google+Cloud+Platform;DevSecOps+Automation;Backend+Security+Engineering;AI-Assisted+Security;Secure+Cloud-Native+Architectures" />
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
+<br>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220"/>
+
+<br><br>
+
+<a href="https://bugcrowd.com/h/carollamas">
+<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+</a>
+
+<a href="https://bughunters.google.com/profile/b81bec3d-6830-476a-83d0-42276659a092/awards">
+<img src="https://img.shields.io/badge/Google%20Bug%20Hunters-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
 
 </div>
 
@@ -15,40 +26,22 @@ Cloud Security Engineer Cybersecurity Researcher Application Security (AppSec)  
 
 # 🚀 About Me
 
-I'm a Cybersecurity Researcher and Cloud Security Engineer focused on designing secure cloud-native architectures, backend security, DevSecOps automation and AI-assisted security engineering.
+I'm a **Cybersecurity Researcher** and **Cloud Security Engineer** focused on designing secure cloud-native architectures, backend security, DevSecOps automation, and AI-assisted security engineering.
+
+I enjoy transforming complex security challenges into scalable, resilient, and automated engineering solutions.
 
 ---
 
-🪲 Bug Hunter • ☁️ Cloud Security Engineer • 🛡️ AppSec • 🔍 Cybersecurity Researcher
+## 🪲 Security Focus
 
----
-
-<div align="center">
-
-<a href="https://bugcrowd.com/h/carollamas">
-  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd">
-</a>
-
-<a href="https://bughunters.google.com/profile/b81bec3d-6830-476a-83d0-42276659a092/awards">
-  <img src="https://img.shields.io/badge/Google%20Bug%20Hunters-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Bug Hunters">
-</a>
-
-</div>
-
----
-
-My work combines:
-
-- ☁️ Cloud Architecture
-- 🔐 Application Security
+- ☁️ Cloud Security
+- 🔐 Application Security (AppSec)
 - 🛡️ Threat Modeling
-- ⚙️ Infrastructure as Code
-- 🤖 AI Engineering
-- 🔍 Security Automation
-- 🚀 Secure Backend Development
+- 🚀 Secure Backend Engineering
+- ⚙️ DevSecOps Automation
+- 🤖 AI Security
+- 🔍 Vulnerability Research
 - 📈 Continuous Security Validation
-
-I enjoy transforming complex security challenges into scalable and automated engineering solutions.
 
 ---
 
@@ -56,7 +49,7 @@ I enjoy transforming complex security challenges into scalable and automated eng
 
 ```text
 ✔ Cloud Security
-✔ AWS Architecture
+✔ AWS
 ✔ Google Cloud Platform
 ✔ DevSecOps
 ✔ Secure SDLC
@@ -75,80 +68,31 @@ I enjoy transforming complex security challenges into scalable and automated eng
 ✔ AI Security
 ✔ LLM Security
 ✔ Prompt Engineering
-✔ Vulnerability Research
 ✔ Backend Engineering
 ```
 
 ---
 
-# ☁ Cloud
-
-<p align="center">
-
-AWS • Google Cloud Platform
-
-Designing resilient, scalable and secure cloud architectures.
-
-</p>
-
----
-
-# 🔐 Security Engineering
-
-- Application Security
-- Secure APIs
-- Authentication
-- Authorization
-- IAM
-- Secrets Management
-- Secure Architecture
-- DevSecOps
-- Security Reviews
-- Cloud Hardening
-- Security Automation
-
----
-
 # 🤖 AI Engineering
 
-Building AI-powered engineering tools for:
+Building AI-powered engineering solutions for:
 
 - Infrastructure Automation
-- Security Validation
 - Cloud Governance
-- Prompt Engineering
+- Security Validation
 - Enterprise LLM Workflows
+- Prompt Engineering
 - AI-assisted Secure Development
 
 ---
 
-# 🏗 Backend Engineering
+# ⚙️ DevSecOps & Backend
 
 ```text
-Python
-FastAPI
-REST APIs
-PostgreSQL
-SQLite
-Docker
-Linux
-Automation
-CLI Engineering
-```
-
----
-
-# ⚙ DevSecOps
-
-```text
-Terraform
-GitHub Actions
-Docker
-CI/CD
-Infrastructure as Code
-Static Analysis
-Security Pipelines
-Cloud Automation
+Python • FastAPI • Docker • Kubernetes • Terraform
+GitHub Actions • PostgreSQL • SQLite • Linux
+REST APIs • CI/CD • Infrastructure as Code
+Security Pipelines • Cloud Automation
 ```
 
 ---
@@ -157,22 +101,22 @@ Cloud Automation
 
 - Secure Cloud Architecture
 - AI Security
-- Enterprise LLM Platforms
 - Cloud Governance
-- Infrastructure Automation
-- Cloud-native Security
-- Security by Design
 - Zero Trust
+- Cloud-native Security
+- Infrastructure Automation
+- Enterprise LLM Platforms
+- Security by Design
 
 ---
 
-# 📊 GitHub
+
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ticarollamas-arch&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticarollamas-arch&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -182,13 +126,9 @@ Cloud Automation
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ticarollamas-arch&theme=tokyo-night"/>
 
 </p>
-
----
-
-
 
 ---
 
@@ -206,15 +146,10 @@ Cloud Automation
 
 ```text
 Security First
-
 Automation First
-
 Infrastructure as Code
-
 Everything Versioned
-
 Everything Observable
-
 Everything Reproducible
 ```
 
@@ -232,17 +167,10 @@ Everything Reproducible
 
 ---
 
-
-
----
-
 <div align="center">
 
-## "Secure systems are not built by accident.
-They are engineered."
+## 💬 "Secure systems are not built by accident. They are engineered."
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
 
 </div>
-
----
