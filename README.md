@@ -231,19 +231,7 @@ Everything Reproducible
 
 ---
 
-# 🌎 Connect
 
-<p align="center">
-
-GitHub
-
-LinkedIn
-
-Email
-
-Portfolio
-
-</p>
 
 ---
 
@@ -255,3 +243,5 @@ They are engineered."
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
 
 </div>
+
+---
