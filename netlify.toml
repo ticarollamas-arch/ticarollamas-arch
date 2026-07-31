@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Toda rota do app (ex: /admin.login) cai no index.html — senão o Netlify
+# devolve 404 porque não existe um arquivo físico com esse nome.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

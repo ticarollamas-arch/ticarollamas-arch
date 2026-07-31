@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+trial_store.json
+settings.json
+blog_posts.json
+leads.json
+traffic_log.json
