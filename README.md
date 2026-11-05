@@ -1,109 +1,95 @@
 <div align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidS8NoryYYppu5FZ4ES6n9iT7S4ZiCu88y7p0IdQswYOUMlyL637rNBICD4V9uW2hxTW4ZNOWAdptqPy4_0eiUEsQgdLjmcapgT_Dq5e2u2snpW3gponR6UyIcGv-LxjSj-FbXwUkAyYlK3HTWB9a80D7rtH6b_kA8ilL9Jw8zXlEhwn1tmfxHWGbX7d8/s1536/2699.png" width="100%" alt="Carol Lamas - Cybersecurity Engineering"/>
+  
+  <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Carol+%F0%9F%91%8B;Engenheira+de+Seguran%C3%A7a+e+DevOps;Especialista+em+ferramentas+para+problemas+complexos;Neurodivergente+%7C+Mente+Anal%C3%ADtica" alt="Typing SVG" />
+  <h1>ANA CAROLINE LAMAS</h1>
+  <h3>carollamas@cyberhuntlab.com.br | cyberhuntlab.com.br</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00FF9C&height=150&section=header&text=Carol%20Lamas&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <br>
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Caroline_Lamas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-caroline-lamas-605152351)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_31_97244--2973-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531972442973)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ticarrollamas-arch)
+  [![Email](https://img.shields.io/badge/Email-acarollamas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acarollamas@gmail.com)
+
+  <br>
+  
+  **DESENVOLVEDORA PYTHON | BACKEND & FULL STACK | AUTOMAÇÃO E SEGURANÇA**
+  *Nova Lima, MG – Brasil*
 </div>
 
 ---
 
-### 👩‍💻 Sobre mim
+## 🎯 POSICIONAMENTO PROFISSIONAL
 
-Sou **engenheira de segurança ofensiva**, **pesquisadora** e **especialista em DevOps**, com paixão por construir ferramentas que resolvem problemas complexos de forma automatizada. Minha abordagem é profundamente analítica – uma característica da minha **neurodivergência** – o que me permite enxergar padrões e criar soluções inovadoras para desafios de segurança, infraestrutura e desenvolvimento de software.
+> *"Não basta desenvolver sistemas que funcionam. É preciso construir soluções eficientes, automatizadas e seguras."*
 
-- 🛡️ Fundadora da **[CyberHuntLab](https://cyberhuntlab.com.br)** – pesquisa e automação em bug bounty e reconhecimento de superfície
-- 🔭 Criando o **CWE-Cover 2.0**: uma suite de triagem, reconhecimento passivo e mapeamento MITRE CWE
-- 🧠 **Neurodivergente** – uso minha mente analítica para transformar processos manuais em pipelines inteligentes
-- ⚡ Especialista em criar ferramentas que simplificam a vida de quem faz pentest e AppSec
+Integro desenvolvimento Python e práticas de cibersegurança para reduzir riscos, prevenir vulnerabilidades e entregar aplicações mais confiáveis.
 
 ---
 
-### 🎯 Especializações
+## 🚀 RESUMO PROFISSIONAL
 
+Pesquisadora independente de segurança e desenvolvedora backend com foco em Python, automação de processos, integração de sistemas, segurança de aplicações (AppSec) e DevSecOps. Conhecimentos em desenvolvimento de soluções automatizadas com Python e Go, análise e processamento de dados, integração de serviços e automação de tarefas.
+
+Experiência em pesquisa de segurança em programas de recompensa, incluindo **Google VRP**, **HackerOne** e **Bugcrowd**, com atuação no reconhecimento, análise, documentação e divulgação responsável de vulnerabilidades. Conhecimentos em Google Cloud Platform, Docker, Docker Compose, Kubernetes e pipelines de CI/CD.
+
+---
+
+## ⚙️ COMPETÊNCIAS TÉCNICAS
+
+| 🛡️ Segurança | 🐍 Python & Backend | ☁️ Cloud & DevOps | 💻 Desenvolvimento & Dados |
+| :--- | :--- | :--- | :--- |
+| • AppSec & DevSecOps | • Python e Go | • Google Cloud Platform (GCP) | • JavaScript, TypeScript, Node.js |
+| • SAST, DAST | • Desenvolvimento backend | • Vertex AI, BigQuery, Firebase | • Java, C++, C#, YAML |
+| • OWASP Top 10 | • Automação de processos | • Docker & Docker Compose | • Fundamentos Full Stack |
+| • CWE, CVE | • Integração de sistemas | • Kubernetes | • LLMs e fluxos multiagentes |
+| • Threat Modeling | • APIs e processamento de dados | • Terraform | • Engenharia de prompts |
+| • Pentesting & Bug Bounty | • Scripts Python | • CI/CD & GitHub Actions | • Machine Learning |
+| • Engenharia reversa | • Automação de tarefas | | • Pandas e NumPy |
+| • Taint analysis | | | |
+
+---
+
+## 🔬 PROFICIÊNCIA TÉCNICA
+
+**Análise de Código e Vulnerabilidades:**
+Conhecimento em análise estática de código com aplicação de conceitos de *taint analysis*, correlacionando fontes de entrada não confiáveis com operações potencialmente perigosas (*sinks*). Avaliação de mecanismos de validação, sanitização, canonicalização de caminhos e controles de contenção, considerando falsos positivos e a necessidade de validação manual.
+
+**Pesquisa Ofensiva:**
+Conhecimento do ciclo de pesquisa em segurança ofensiva, do reconhecimento à documentação técnica e divulgação responsável, distinguindo exposição de dados de impacto efetivamente explorável. Atenção à validação de entradas, tratamento de erros, integridade e confiabilidade das aplicações.
+
+---
+
+## 🕵️‍♀️ PESQUISA EM SEGURANÇA
+
+* **Google Vulnerability Reward Program (VRP) e AI Highlights:** Pesquisa e análise de segurança em bibliotecas e serviços, com foco na identificação de possíveis vulnerabilidades, incluindo corrupção de memória e travessia de diretório; análise técnica e propostas de remediação.
+* **HackerOne e Bugcrowd:** Pesquisa independente de vulnerabilidades em aplicações web e mobile, incluindo análise de aplicações Android (APK), identificação de exposição de informações sensíveis e avaliação de configurações de segurança. Experiência com documentação técnica, classificação de vulnerabilidades e divulgação responsável.
+
+---
+
+## 💡 DIFERENCIAIS PROFISSIONAIS
+
+* **Desenvolvimento com segurança desde a concepção:** atenção à segurança, confiabilidade e proteção de dados durante o desenvolvimento.
+* **Python além da programação:** aplicação da linguagem em automação de processos, integração de sistemas, processamento de dados e otimização de tarefas.
+* **Automação inteligente:** transformação de atividades manuais e repetitivas em fluxos automatizados, buscando eficiência, padronização e redução de erros.
+* **Desenvolvimento orientado à confiabilidade:** preocupação com validação de entradas, tratamento de erros, integridade e previsibilidade das aplicações.
+* **Integração entre desenvolvimento e infraestrutura:** conhecimentos em containers, cloud, orquestração e CI/CD.
+* **Visão integrada de desenvolvimento e cibersegurança:** avaliação de aplicações pela perspectiva de quem desenvolve e de quem identifica possíveis vulnerabilidades.
+* **Análise técnica e resolução de problemas:** abordagem investigativa para compreender causas, avaliar cenários e propor soluções fundamentadas.
+* **Redução de riscos tecnológicos:** atenção à exposição de credenciais, dependências vulneráveis, falhas de validação e configurações inadequadas.
+* **Aprendizado multidisciplinar:** trânsito entre desenvolvimento, automação, cloud, análise de dados e segurança de aplicações.
+
+---
+
+## 🏅 CERTIFICAÇÕES E FORMAÇÕES
+
+* **Data Analysis with Python** – freeCodeCamp (jun/2026): aproximadamente 300 horas de formação em engenharia e análise de dados com Python, Pandas e NumPy.
+* **Google Developers Program** – Nível Premium (abr/2026): participação no programa, incluindo Google Skills e Developer Explorer Badges.
+* **Google Cloud Skills Boost:** badges verificadas em Vertex AI, MLOps, engenharia de prompts, fluxos multiagentes e fundamentos de Machine Learning.
+
+---
 <div align="center">
-
-| 🛡️ **Engenharia de Segurança** | 🔍 **Pesquisa em Cibersegurança** | ⚙️ **DevOps & Infraestrutura** |
-|--------------------------------|-----------------------------------|-------------------------------|
-| Análise de vulnerabilidades    | Exploração de superfície         | Automação com Python/Bash     |
-| Testes de penetração           | Mapeamento MITRE CWE             | CI/CD com GitHub Actions      |
-| Arquitetura de defesa          | OSINT e reconhecimento passivo   | Containers (Docker/K8s)       |
-
-| 💻 **Engenharia de Software** | 🧩 **Ferramentas para problemas complexos** | 🧠 **Mente Analítica & Neurodivergência** |
-|------------------------------|---------------------------------------------|--------------------------------------------|
-| Desenvolvimento em Python/TS | Nuclei, Burp, Metasploit                    | Pensamento sistêmico e criativo            |
-| APIs e microsserviços        | Automação de triagem e validação            | Capacidade de hiperfoco e padrões          |
-| Design de ferramentas        | PoC Explainer e agentes de IA               | Resolução de problemas não-lineares        |
-
-</div>
-
----
-
-### 🧰 Tecnologias & Ferramentas (em 3D)
-
-<div align="center">
-
-<!-- Linguagens -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0d1117)
-
-<!-- Frameworks e ferramentas -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
-
-<!-- DevOps & Segurança -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117)
-![Nuclei](https://img.shields.io/badge/Nuclei-FF4655?style=for-the-badge&logo=security&logoColor=white&labelColor=0d1117)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ticarollamas-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticarollamas-arch&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ticarollamas-arch&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" />
-
-</div>
-
----
-
-### 🚀 Projeto em destaque
-
-<div align="center">
-
-[![CWE-Cover 2.0](https://github-readme-stats.vercel.app/api/pin/?username=ticarollamas-arch&repo=CWE-Cover-2.0&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C)](https://github.com/ticarollamas-arch/CWE-Cover-2.0)
-
-</div>
-
----
-
-### 🧠 Sobre minha mente analítica e neurodivergência
-
-> *“A complexidade não me assusta; ela me fascina. Meu cérebro neurodivergente transforma caos em padrões, e padrões em ferramentas que resolvem problemas que ninguém sabia que existiam.”*
-
-Essa capacidade de **hiperfoco**, **pensamento lateral** e **visão sistêmica** é o que me permite criar soluções inovadoras em segurança, automação e engenharia de software. Cada linha de código, cada vulnerabilidade descoberta, cada pipeline otimizado é um reflexo da minha paixão por entender e melhorar sistemas complexos.
-
----
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Website-cyberhuntlab.com.br-00FF9C?style=flat-square)](https://cyberhuntlab.com.br)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0f2027&height=100&section=footer" width="100%"/>
-
+  <i>"Understand the architecture. Find the weakness. Engineer the solution."</i>
 </div>
