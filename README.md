@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Ana Caroline Lamas — desenvolvedora Python e segurança de aplicações" width="100%"></p>
+
 # Ana Caroline Lamas
 
 **Desenvolvedora Python · Segurança de Aplicações · Agentes e Automação**
