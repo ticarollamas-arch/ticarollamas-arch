@@ -33,8 +33,25 @@ Fui administradora do **Google Summer of Code 2026** pela organização open sou
 
 Python · Go (leitura e análise) · TypeScript · Docker · GitHub Actions · Google Cloud · LLMs e orquestração de agentes · OWASP Top 10 · CWE/CVE · análise estática e *taint analysis*
 
-## Formação
+## Certificações e formação
 
-- Data Analysis with Python — freeCodeCamp (2026)
-- Google Cloud Skills Boost — trilhas de Vertex AI, MLOps e agentes
-- Bootcamps e trilhas de desenvolvimento e segurança (Santander, Google, Anthropic)
+**Segurança**
+- Cibersegurança do Zero à Prática — Santander / DIO
+- GenAI, Dados & Cyber — Bradesco / DIO
+- Gestão de Identidades com Boas Práticas de Segurança — DIO
+
+**Cloud**
+- Fundamentos Essenciais da Infraestrutura AWS — DIO
+- Gestão de Recursos na Google Cloud Platform — DIO
+- Deploy e Build de Agentes em Produção; AI Boost Bites (Gemini) — Google Cloud Skills Boost
+
+**Programação**
+- Formação Java (10h+): POO, estruturas de dados, Streams (17h), Maven, testes, debugging, exceções e I/O — DIO
+- Formação Python: POO, estruturas de dados, strings, coleções, data/hora e boas práticas — DIO
+- Formação GitHub Certification (10h): administração, Projects, colaboração e Markdown — DIO
+- Data Analysis with Python — freeCodeCamp
+
+**IA e agentes**
+- CrewAI: conceitos, ecossistema e estrutura de projetos — DIO
+- Fundamentos da IA e Pensamento Crítico — DIO
+- Trilhas de desenvolvimento e segurança — Santander, Google e Anthropic
